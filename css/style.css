@@ -1,0 +1,76 @@
+
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  header {
+    background-color: #673ab7; 
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header p {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+  
+  
+  section {
+    padding: 20px;
+  }
+  
+ 
+  #tentang-saya {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 20px auto;
+    width: 90%;
+    background-color: #e1bee7; 
+  }
+  
+  #tentang-saya p {
+    text-align: justify;
+  }
+  
+  #tentang-saya img {
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+  }
+  
+
+  #biodata {
+    margin-top: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  #biodata h2 {
+    text-align: center;
+    margin-top: 0;
+    color: #673ab7; 
+  }
+  
+  #biodata ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #biodata ul li {
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #biodata ul h3 {
+    margin-top: 0;
+    color: #673ab7; 
+  }
